@@ -16,6 +16,7 @@
 const firebaseConfig = {
   apiKey: "AIzaSyA8wyrStg2-xwUNT3reHjGaIKFL3Ym-Qls",
   authDomain: "smart-home-mahdi.firebaseapp.com",
+  databaseURL: "https://smart-home-mahdi-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "smart-home-mahdi",
   storageBucket: "smart-home-mahdi.firebasestorage.app",
   messagingSenderId: "770027690676",
